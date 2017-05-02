@@ -1,13 +1,3 @@
-'''
-TODO
-
-reuse variables - done
-eps for binary cross entropy - done
-match parameters - done
-resize UCF to 32x64x64x3 - done
-L1 penalty in mask - done
-'''
-
 import tensorflow as tf
 import numpy as np
 import h5py
